@@ -1,0 +1,16 @@
+[project]
+name = "anypytools-example"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Morten Enemark Lund <melund@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[tasks]
+
+[dependencies]
+jupyterlab = ">=4.2.3,<4.3"
+anypytools = ">=1.12.0,<1.13"
+seaborn = ">=0.13.2,<0.14"
+pandas = ">=2.2.2,<2.3"
+ipywidgets = ">=8.1.3,<8.2"
