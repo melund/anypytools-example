@@ -7,6 +7,7 @@ channels = ["conda-forge"]
 platforms = ["win-64"]
 
 [tasks]
+start = "jupyter lab example.ipynb"
 
 [dependencies]
 jupyterlab = ">=4.2.3,<4.3"

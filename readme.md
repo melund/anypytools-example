@@ -17,7 +17,7 @@ This repository contains an example project using AnyPyTools, a toolkit for work
    iwr -useb https://pixi.sh/install.ps1 | iex
    ```
 
-- Prerelease version of the Python extension for Visual Studio Code. This will ensure that VS Code Jupyter will automatically find the pixi python enviornment.
+- Optional: Prerelease version of the Python extension for Visual Studio Code. This will ensure that VS Code Jupyter will automatically find the pixi python enviornment.
 
 ### Installation
 
@@ -34,6 +34,6 @@ This repository contains an example project using AnyPyTools, a toolkit for work
 
 ### Running the Example
 
-- Open the "Example.ipynb" in Jupyter lab or Visual Studio Code and run the cells to see the results.
+- Open the [example.ipynb](example.ipynb) in Jupyter lab or Visual Studio Code and run the cells to see the results.
 
 
